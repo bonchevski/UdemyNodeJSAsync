@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bonchevski/UdemyNodeJSAsync#readme",
   "dependencies": {
-    "request": "^2.87.0"
+    "request": "^2.87.0",
+    "yargs": "^11.0.0"
   }
 }
